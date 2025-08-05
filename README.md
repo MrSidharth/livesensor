@@ -1,2 +1,2 @@
 # livesensor
-I want to create sensor fault system
+I want to create sensor fault prediction system project
